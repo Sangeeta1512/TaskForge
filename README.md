@@ -68,25 +68,32 @@ The project demonstrates complete frontend-backend integration with secure authe
 
 ## Frontend
 
-frontend/src/
-├── api/
-├── components/
-├── context/
-├── layouts/
-├── pages/
-├── routes/
-└── utils/
+```text
+frontend/
+└── src/
+    ├── api/
+    ├── components/
+    ├── context/
+    ├── layouts/
+    ├── pages/
+    ├── routes/
+    └── utils/
+```
 
 ## Backend
 
-backend/app/
-├── auth/
-├── db/
-├── models/
-├── routers/
-├── schemas/
-├── core/
-└── main.py
+```text
+backend/
+└── app/
+    ├── auth/
+    ├── db/
+    ├── models/
+    ├── routers/
+    ├── schemas/
+    ├── core/
+    └── main.py
+```
+
 
 ---
 
